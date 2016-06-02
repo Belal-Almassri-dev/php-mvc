@@ -2,7 +2,7 @@
 <html lang="en" ng-app="myApp">
 <head>
     <meta charset="UTF-8">
-    <title>Angular Test</title>
+    <title>MVC PHP</title>
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,100,700,900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="styles/font-awesome/font-awesome.css">
